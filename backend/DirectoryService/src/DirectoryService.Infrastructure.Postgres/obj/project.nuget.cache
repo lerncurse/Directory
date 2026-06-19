@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMGT292EkA0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Infrastructure.Postgres\\DirectoryService.Infrastructure.Postgres.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Невозможно прочитать сведения о проекте для \"DirectoryService.Infrastructure.Postgres\": Идентификатор платформы \"\" недопустим.",
+      "projectPath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Infrastructure.Postgres\\DirectoryService.Infrastructure.Postgres.csproj",
+      "filePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Infrastructure.Postgres\\DirectoryService.Infrastructure.Postgres.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

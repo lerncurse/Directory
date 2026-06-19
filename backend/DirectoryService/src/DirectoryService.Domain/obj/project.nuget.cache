@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WG/lqb0AY5c=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Domain\\DirectoryService.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Невозможно прочитать сведения о проекте для \"DirectoryService.Domain\": Идентификатор платформы \"\" недопустим.",
+      "projectPath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Domain\\DirectoryService.Domain.csproj",
+      "filePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Domain\\DirectoryService.Domain.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

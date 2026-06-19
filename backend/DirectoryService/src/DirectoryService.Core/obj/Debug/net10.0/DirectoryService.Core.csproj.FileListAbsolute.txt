@@ -1,0 +1,16 @@
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\bin\Debug\net10.0\DirectoryService.Core.deps.json
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\bin\Debug\net10.0\DirectoryService.Core.dll
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\bin\Debug\net10.0\DirectoryService.Core.pdb
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\bin\Debug\net10.0\DirectoryService.Contracts.dll
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\bin\Debug\net10.0\DirectoryService.Contracts.pdb
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.csproj.AssemblyReference.cache
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.AssemblyInfoInputs.cache
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.AssemblyInfo.cs
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.csproj.CoreCompileInputs.cache
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.sourcelink.json
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\Director.71D15129.Up2Date
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.dll
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\refint\DirectoryService.Core.dll
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\DirectoryService.Core.pdb
+C:\Users\lozik\studies\Directory\backend\DirectoryService\src\DirectoryService.Core\obj\Debug\net10.0\ref\DirectoryService.Core.dll

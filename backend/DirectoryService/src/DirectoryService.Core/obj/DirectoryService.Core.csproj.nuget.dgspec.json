@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Core\\DirectoryService.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Core\\DirectoryService.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Core\\DirectoryService.Core.csproj",
+        "projectPath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Core\\DirectoryService.Core.csproj",
+        "packagesPath": "C:\\Users\\lozik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lozik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}

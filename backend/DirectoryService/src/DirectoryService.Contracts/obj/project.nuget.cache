@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8REn5a1ceC0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Contracts\\DirectoryService.Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Невозможно прочитать сведения о проекте для \"DirectoryService.Contracts\": Идентификатор платформы \"\" недопустим.",
+      "projectPath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Contracts\\DirectoryService.Contracts.csproj",
+      "filePath": "C:\\Users\\lozik\\studies\\Directory\\backend\\DirectoryService\\src\\DirectoryService.Contracts\\DirectoryService.Contracts.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

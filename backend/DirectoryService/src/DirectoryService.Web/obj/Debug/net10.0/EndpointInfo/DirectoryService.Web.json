@@ -1,0 +1,38 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "DirectoryService.Web | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5206"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "DirectoryService.Web"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "DirectoryService.Web"
+    }
+  ]
+}
